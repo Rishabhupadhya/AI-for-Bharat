@@ -406,7 +406,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Status:** Active Development
 - **Version:** 1.0.0 (MVP)
 - **Last Updated:** February 15, 2026
-- **Maintainers:** [@yourusername](https://github.com/yourusername)
 
 ---
 
